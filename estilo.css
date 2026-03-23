@@ -1,0 +1,51 @@
+body {
+font-family: Arial;
+margin: 0;
+background: #f4f4f4;
+}
+
+header {
+background: #222;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 10px;
+text-decoration: none;
+font-weight: bold;
+}
+
+section {
+background: white;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+}
+
+form {
+display: flex;
+flex-direction: column;
+}
+
+input, textarea {
+margin-bottom: 10px;
+padding: 8px;
+}
+
+button {
+background: #007BFF;
+color: white;
+border: none;
+padding: 10px;
+cursor: pointer;
+}
+
+footer {
+text-align: center;
+padding: 15px;
+background: #222;
+color: white;
+}
